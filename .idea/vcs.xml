@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Directory" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Quake3e" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wordle" vcs="Git" />
   </component>
 </project>
